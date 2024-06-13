@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace GetStartedApp.Views;
+namespace SpaceInvaders.Avalonia.Views;
 
 public partial class MainWindow : Window
 {

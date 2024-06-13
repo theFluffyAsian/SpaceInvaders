@@ -1,9 +1,9 @@
 using System;
 using Avalonia.Controls;
 using Avalonia.Controls.Templates;
-using GetStartedApp.ViewModels;
+using SpaceInvaders.Avalonia.ViewModels;
 
-namespace GetStartedApp;
+namespace SpaceInvaders.Avalonia;
 
 public class ViewLocator : IDataTemplate
 {

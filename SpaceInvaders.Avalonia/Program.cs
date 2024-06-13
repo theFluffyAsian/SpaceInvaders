@@ -2,7 +2,7 @@
 using Avalonia.ReactiveUI;
 using System;
 
-namespace GetStartedApp;
+namespace SpaceInvaders.Avalonia;
 
 sealed class Program
 {

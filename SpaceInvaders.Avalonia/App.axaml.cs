@@ -1,10 +1,10 @@
 using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
-using GetStartedApp.ViewModels;
-using GetStartedApp.Views;
+using SpaceInvaders.Avalonia.ViewModels;
+using SpaceInvaders.Avalonia.Views;
 
-namespace GetStartedApp;
+namespace SpaceInvaders.Avalonia;
 
 public partial class App : Application
 {

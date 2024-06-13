@@ -1,4 +1,4 @@
-﻿namespace GetStartedApp.ViewModels;
+﻿namespace SpaceInvaders.Avalonia.ViewModels;
 
 public class MainWindowViewModel : ViewModelBase
 {
